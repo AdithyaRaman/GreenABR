@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!-- MPD file Generated with GPAC version 0.8.0-revrelease  at 2020-03-25T17:07:49.547Z-->
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" minBufferTime="PT1.500S" type="static" mediaPresentationDuration="PT0H3M0.000S" maxSegmentDuration="PT0H0M4.000S" profiles="urn:mpeg:dash:profile:isoff-live:2011,http://dashif.org/guidelines/dash264">
+ <ProgramInformation moreInformationURL="http://gpac.io">
+  <Title>tos</Title>
+ </ProgramInformation>
+
+ <Period duration="PT0H3M0.000S">
+  <AdaptationSet segmentAlignment="true" bitstreamSwitching="true" maxWidth="1920" maxHeight="1080" maxFrameRate="24" par="16:9" lang="und" startWithSAP="1">
+   <SegmentTemplate initialization="manifest_init.mp4"/>
+   <Representation id="video6" mimeType="video/mp4" codecs="avc3.64000D" width="320" height="180" frameRate="24" sar="1:1" bandwidth="299101">
+    <SegmentTemplate media="segments/dash_tos_320x180_300k_24_$Number$.m4s" timescale="12288" startNumber="1" duration="49152"/>
+   </Representation>
+   <Representation id="video5" mimeType="video/mp4" codecs="avc3.64001E" width="640" height="360" frameRate="24" sar="1:1" bandwidth="738432">
+    <SegmentTemplate media="segments/dash_tos_640x360_750k_24_$Number$.m4s" timescale="12288" startNumber="1" duration="49152"/>
+   </Representation>
+   <Representation id="video4" mimeType="video/mp4" codecs="avc3.64001E" width="768" height="432" frameRate="24" sar="1:1" bandwidth="1176869">
+    <SegmentTemplate media="segments/dash_tos_768x432_1200k_24_$Number$.m4s" timescale="12288" startNumber="1" duration="49152"/>
+   </Representation>
+   <Representation id="video3" mimeType="video/mp4" codecs="avc3.64001F" width="1024" height="576" frameRate="24" sar="1:1" bandwidth="1805142">
+    <SegmentTemplate media="segments/dash_tos_1024x576_1850k_24_$Number$.m4s" timescale="12288" startNumber="1" duration="49152"/>
+   </Representation>
+   <Representation id="video2" mimeType="video/mp4" codecs="avc3.64001F" width="1280" height="720" frameRate="24" sar="1:1" bandwidth="2776561">
+    <SegmentTemplate media="segments/dash_tos_1280x720_2850k_24_$Number$.m4s" timescale="12288" startNumber="1" duration="49152"/>
+   </Representation>
+   <Representation id="video1" mimeType="video/mp4" codecs="avc3.640028" width="1920" height="1080" frameRate="24" sar="1:1" bandwidth="4201135">
+    <SegmentTemplate media="segments/dash_tos_1920x1080_4300k_24_$Number$.m4s" timescale="12288" startNumber="1" duration="49152"/>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>

@@ -1,0 +1,17 @@
+time:1585156993.33||	lastquality:750||	buffer:4||	rebuffer(?):0.018||	video_chunk_size:450283||	video_chunk_fetch_time:6||	reward:-0.144||
+time:1585156993.47||	lastquality:4300||	buffer:8||	rebuffer(?):0.0||	video_chunk_size:2123065||	video_chunk_fetch_time:7||	reward:2.0||
+time:1585156993.49||	lastquality:4300||	buffer:12||	rebuffer(?):0.0||	video_chunk_size:2177073||	video_chunk_fetch_time:7||	reward:20.0||
+time:1585156993.52||	lastquality:4300||	buffer:16.0||	rebuffer(?):0.0||	video_chunk_size:2160877||	video_chunk_fetch_time:8||	reward:20.0||
+time:1585156993.55||	lastquality:4300||	buffer:20||	rebuffer(?):0.0||	video_chunk_size:2233056||	video_chunk_fetch_time:7||	reward:20.0||
+time:1585156993.57||	lastquality:4300||	buffer:24||	rebuffer(?):0.0||	video_chunk_size:1941625||	video_chunk_fetch_time:4||	reward:20.0||
+time:1585156993.59||	lastquality:4300||	buffer:28||	rebuffer(?):0.0||	video_chunk_size:2157535||	video_chunk_fetch_time:4||	reward:20.0||
+time:1585156993.62||	lastquality:4300||	buffer:32||	rebuffer(?):0.0||	video_chunk_size:2290172||	video_chunk_fetch_time:5||	reward:20.0||
+time:1585156993.64||	lastquality:4300||	buffer:36||	rebuffer(?):0.0||	video_chunk_size:2055469||	video_chunk_fetch_time:5||	reward:20.0||
+time:1585156993.66||	lastquality:4300||	buffer:40||	rebuffer(?):0.0||	video_chunk_size:2169201||	video_chunk_fetch_time:4||	reward:20.0||
+time:1585156993.69||	lastquality:4300||	buffer:44||	rebuffer(?):0.0||	video_chunk_size:2173522||	video_chunk_fetch_time:8||	reward:20.0||
+time:1585156993.71||	lastquality:4300||	buffer:48||	rebuffer(?):0.0||	video_chunk_size:2102452||	video_chunk_fetch_time:4||	reward:20.0||
+time:1585156993.73||	lastquality:4300||	buffer:52||	rebuffer(?):0.0||	video_chunk_size:2209463||	video_chunk_fetch_time:5||	reward:20.0||
+time:1585156993.76||	lastquality:4300||	buffer:56||	rebuffer(?):0.0||	video_chunk_size:2275376||	video_chunk_fetch_time:9||	reward:20.0||
+time:1585156995.29||	lastquality:4300||	buffer:59.499775||	rebuffer(?):0.0||	video_chunk_size:2005399||	video_chunk_fetch_time:8||	reward:20.0||
+time:1585156999.32||	lastquality:4300||	buffer:59.499685||	rebuffer(?):0.0||	video_chunk_size:2152483||	video_chunk_fetch_time:6||	reward:20.0||
+time:1585157003.34||	lastquality:4300||	buffer:59.767983||	rebuffer(?):0.0||	video_chunk_size:2289689||	video_chunk_fetch_time:4||	reward:20.0||
